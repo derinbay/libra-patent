@@ -38,7 +38,7 @@ include 'header.php';
 				<ul>
 					<li>Entegre Devrenin yerine getirdiği elektronik işlevleri tanımlayan bilgileri de içeren Entegre Devre Topoğrafyasının kopya veya net çizimleri,</li>
 					<li>Entegre Devre Topoğrafyası hakkında özet bilgi, </li>
-					<li>Başvuru vekil aracılığı ile yapılıyorsa <a href="vekaletname.pdf" target="_blank" >vekaletname,</a>,</li>
+					<li>Başvuru vekil aracılığı ile yapılıyorsa <a href="files/vekaletname.pdf" target="_blank" >vekaletname,</a>,</li>
 					<li>Başvuru tüzel kişi adına yapılıyor ise imza sirküleri.</li>
 				</ul>
 

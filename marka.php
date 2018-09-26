@@ -36,11 +36,11 @@ include 'header.php';
                     <li>marka araştırması yapılarak risk değerlendirmesi yapılmakta,</li>
 					<li>uygun görülen ve talimat verilen marka için marka başvurusu süreci aynı gün başlatılarak koruma sağlanmaktadır. </li>
                 </ul>
-				<p> <a href="esya-hizmet-listesi.pdf" target="_blank" >Eşya ve hizmet listesi için tıklayınız..</a> </p>
-				<p> <a href="vekaletname.pdf" target="_blank" >Vekaletname için tıklayınız..</a> </p>
+				<p> <a href="files/esya-hizmet-listesi.pdf" target="_blank" >Eşya ve hizmet listesi için tıklayınız..</a> </p>
+				<p> <a href="files/vekaletname.pdf" target="_blank" >Vekaletname için tıklayınız..</a> </p>
 				<h3 class="text-heading title_color">MARKA TESCİL AŞAMALARI</h3>
 				<p>Marka Tescil Süreci aşağıdaki tabloda yer almaktadır. </p>						
-				<p><img class="img-fluid" src="img/tescil-asamalari.jpg"></p>				
+				<p><img class="img-fluid" src="img/marka-tescil-asamalari.jpg"></p>				
 				<p>Bu çerçevede her türlü marka araştırması başvurularınız için Libra Patent’le temas kurabilir ve başvurusu ve tescil süreci ile ilgili tüm sorularınız için danışmanlarımızdan ücretsiz destek alabilirsiniz.</p>
 				<h3 class="text-heading title_color">MARKA YENİLEME</h3>
 				<p>Marka tescilleri 10 yıl süreyle geçerli haklar olup, korumanın devam edebilmesi için 10 yılda bir marka yenilemesi yapılması gerekmektedir. </p>
@@ -105,7 +105,7 @@ include 'header.php';
 				<p><h5><strong><u>Marka Başvurusu;</u></strong></h5></p>
 				<ul>
 					<li>Marka örneği / logosu</li>
-					<li>Eşya listesi</li>
+					<li><a href="files/esya-hizmet-listesi.pdf" target="_blank" >Eşya ve hizmet listesi</a> </li>
 					<li>Başvuru sahibi şirket ise unvan, adres, vergi dairesi ve numarası, şahıs ise adı soyadı, adresi ve TC Kimlik Numarası</li>
 					<li>Talep edildiği takdirde Rüçhan Belgesi</li>
 				</ul>

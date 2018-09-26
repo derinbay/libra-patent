@@ -120,7 +120,7 @@ include 'header.php';
                 <p>Bu işlemleri kolaylaştırmak için çeşitli ülkeler tarafından oluşturulan birlikler mevcuttur. Bu birlikler kapsamında toplu başvurular yapılabildiği gibi birlik üyesi olmayan ülkeler için de ayrı ayrı ülkesel başvuru imkanı bulunmaktadır.</p>
                 <p>Buna göre yurt dışında patent / faydalı model koruması,</p>
                 <ul>
-                    <li>Patent Corporation Treaty kapsamında PCT başvurusu olarak (<a href="pct-ulke-listesi.pdf" target="_blank" >Ülke listesi için tıklayınız..</a>)</li>
+                    <li>Patent Corporation Treaty kapsamında PCT başvurusu olarak (<a href="files/pct-ulke-listesi.pdf" target="_blank" >Ülke listesi için tıklayınız..</a>)</li>
                     <li>EP Avrupa Patent başvurusu olarak</li> 
                     <li>OAPI UNION Afrika Birliği başvurusu olarak</li> 
                     <li>GCC Körfez Ülkeleri Birliği başvurusu olarak</li> 
