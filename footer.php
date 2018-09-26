@@ -43,7 +43,9 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget instafeed">
                     <h6 class="footer_title">Bize Ulaşın...</h6>
-                    <p>Kadıköy - İstanbul / Türkiye.</p>
+                    <p>Acıbadem MaH. Çeçen Sk.</p>
+                    <p>Akasya Evleri A (Kule) Blok</p>
+                    <p> NO:25 D:150 - Üsküdar/İSTANBUL-Türkiye</p>
                     <p>0216 123 23 23 - info@librapatent.com</p>
                 </div>
             </div>						

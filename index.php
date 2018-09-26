@@ -20,8 +20,12 @@ include 'header.php';
         <!--================Offer Area =================-->
         <section class="offer_area p_120">
         	<div class="container">
-        		<div class="offer_title">
-        			<h5>Önerilerimiz</h5>
+				<div class="offer_title homepage-text">
+					<h3>Biz Kimiz?</h3>
+					<p>LİBRA PATENT, fikri ve sınai haklar alanında 17 yılı aşkın deneyimiyle çözüm ortağı olduğu tüm müvekkillerine, müvekkilin gerçek ihtiyaçlarına ve hedeflerine yönelik butik hizmeti sunmayı amaçlamaktadır.</p>
+				</div>
+        		<div class="offer_title homepage-text">
+        			<h3>Önerilerimiz</h3>
         			<p>İyi bir tasarımcı olabilirsiniz. Ancak siz “dünyayı kurtaracak” -ve belki de sizi bir anda zengin ya da popüler bir insana dönüştürebilecek- muhteşem fikrinizi bulmaya çalışırken odaklanabileceğiniz, sık tekrarlandığı için bireysel ya da sosyal yaşam kalitenizi azaltan birçok problem tespit edebileceğinizden eminim. Hatta neredeyse her gün böyle saptamalar yaptığınızdan hiç kuşkum yok. Markete uğrayıp sıra beklememek ve yük taşımamak için markete telefonla sipariş verdiğimiz, tasarruf edebileceğimiz 5 dakikanın bile hesabını yaptığımız bir çağda yaşadığımız hepimiz için ortak bir gerçek.</p>
         		</div>
         		<div class="row offer_inner">

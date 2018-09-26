@@ -23,8 +23,8 @@ include 'header.php';
         	<div class="container">
         		<div class="row">
                     <div class="col-lg-12">
-                        <h2>Hukuki Danışmanlık</h2>
-                        <p>Fikri ve Sınai Mülkiyet Haklarının tescili çok önemlidir ancak koruma için tescil yeterli değildir. Tescil edilen ama taklitlerine karşı korunamayan hakların 3. Kişilerce delinmesi, kazanılmış hakların içinin boşaltılması demektir. Bunun engellenebilmesi için kazanılmış hakları ihlal eden kişi ve kuruluşlara karşı mutlaka hukuki işlemlerin başlatılması gerekmektedir.</BR> 
+					<h3 align="center"class="text-heading title_color">HUKUKİ DANIŞMANLIK</h3>             
+                        <p>Fikri ve Sınai Mülkiyet Haklarının tescili çok önemlidir ancak koruma için tescil yeterli değildir. Tescil edilen ama taklitlerine karşı korunamayan hakların 3. Kişilerce delinmesi, kazanılmış hakların içinin boşaltılması demektir. Bunun engellenebilmesi için kazanılmış hakları ihlal eden kişi ve kuruluşlara karşı mutlaka hukuki işlemlerin başlatılması gerekmektedir.</p> 
 
                         <p>Haksız rekabet ya da taklitlerin niteliğine göre;</p>
                         <ul>
@@ -32,10 +32,10 @@ include 'header.php';
                             <li>Mahkemelerde davaların açılması</li>
                             <li>Mahkeme ya da polis kanalıyla taklit ürünlerin toplatılması</li>
                             <li>Gümrüklerde gerekli başvuruların yapılarak taklit ürünlerin giriş ve çıkışlarının engellenmesi</li>
-                            <li>Taklit ve ihlalin tespiti amacıyla saha araştırması ve incelenmesi hukuki olarak yapılabilen işlemler arasındadır.</li>
-                            <li>Ancak her hukuki durumun birbirinden farklı olduğu ve kendi şartlarında değerlendirilmesi gerektiği unutulmadan öncelikle yasal durum tespiti ve hareket yol haritasının belirlenmesi gerekmektedir.</li>
-                            <li>Bu doğrultuda Libra Patent ve anlaşmalı Hukuk bürosu her türlü yasal işlemde yanınızdadır. Daha detaylı bilgi ve danışmanlık için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a></li>
-                        </ul>
+                            <li>Taklit ve ihlalin tespiti amacıyla saha araştırması ve incelenmesi hukuki olarak yapılabilen işlemler arasındadır.</li>                            
+						</ul>
+						<p>Ancak her hukuki durumun birbirinden farklı olduğu ve kendi şartlarında değerlendirilmesi gerektiği unutulmadan öncelikle yasal durum tespiti ve hareket yol haritasının belirlenmesi gerekmektedir.</p>
+                        <p>Bu doğrultuda Libra Patent ve anlaşmalı Hukuk bürosu her türlü yasal işlemde yanınızdadır. Daha detaylı bilgi ve danışmanlık için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a></p>
                     </div>
                 </div>
             </div>

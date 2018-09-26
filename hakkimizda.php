@@ -1,64 +1,6 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="img/favicon.png" type="image/png">
-        <title>Hakkımızda</title>
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="vendors/linericon/style.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-        <link rel="stylesheet" href="vendors/lightbox/simpleLightbox.css">
-        <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
-        <link rel="stylesheet" href="vendors/animate-css/animate.css">
-        <!-- main css -->
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/responsive.css">
-    </head>
-    <body>
-        
-        <!--================Header Menu Area =================-->
-        <header class="header_area">
-            <div class="main_menu">
-                <nav class="navbar navbar-expand-lg navbar-light">
-                    <div class="container box_1620">
-                        <!-- Brand and toggle get grouped for better mobile display -->
-                        <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
-                            <ul class="nav navbar-nav menu_nav ml-auto">
-                                <li class="nav-item active"><a class="nav-link" href="index.html">Ana Sayfa</a></li> 
-                                <li class="nav-item"><a class="nav-link" href="hakkimizda.html">Hakkımızda</a></li> 
-                                <li class="nav-item submenu dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hizmetlerimiz</a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item"><a class="nav-link" href="portfolio.html">Marka</a>
-                                        <li class="nav-item"><a class="nav-link" href="portfolio-details.html">Patent</a>
-                                        <li class="nav-item"><a class="nav-link" href="elements.html">Tasarım</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="copyright.html">Copyright</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="hukuki_islemler.html">Hukuki İşlemler</a></li>
-                                    </ul>
-                                </li> 
-                                <li class="nav-item"><a class="nav-link" href="service.html">Yararlı linkler</a>                       
-                                <li class="nav-item"><a class="nav-link" href="contact.html">İletişim</a></li>
-                            </ul>
-                            <ul class="nav navbar-nav navbar-right">
-                                <li class="nav-item"><a href="#" class="search"><i class="lnr lnr-magnifier"></i></a></li>
-                            </ul>
-                        </div> 
-                    </div>
-                </nav>
-            </div>
-        </header>
-        <!--================Header Menu Area =================-->
+<?php
+include 'header.php';
+?>
         
         <!--================Home Banner Area =================-->
         <section class="banner_area">
@@ -87,7 +29,12 @@
         			<div class="col-lg-6">
         				<div class="about_right_text">
         					<h4>Biz Kimiz?</h4>
-                            <p>Sektörde 17 yıllık tecrübemizle sizlerin çözüm ortağı olmak istiyoruz. Marka, Patent, Tasarım, Copyright, Alan adları ve tüm Fikri ve Sınai işlemlerinizde sizlere en kısa sürede en doğru çözümü sunmak için varız.</p>
+                            <p>Fikri ve sınai hakların olabilecek en etkin şekilde korunabilmesi için öncelikle tescil yol haritasının dikkatli bir şekilde belirlenmesi, tescil sürecinin hızlı ve eksiksiz bir şekilde tamamlanması ve korumanın devamı için tescil sonrası gerekli hukuki süreçlerin düzenli olarak yürütülmesi gerekmektedir. Her bir sınai mülkiyet hakkı kendine özeldir ve kendi şartlarında değerlendirilerek o hakka özel yol haritasının öngörülmesi gerekmektedir.</p>
+							<p>LİBRA PATENT, fikri ve sınai haklar alanında 17 yılı aşkın deneyimiyle çözüm ortağı olduğu tüm müvekkillerine, müvekkilin gerçek ihtiyaçlarına ve hedeflerine yönelik butik hizmeti sunmayı amaçlamaktadır. </p>
+							<p>Müvekkillerinin yenilikçi fikirlerinin tescili ve korunması için zaman zaman karmaşık olabilen yolculuğunda, LİBRA PATENT stratejik çözüm ortağı olarak yol gösterici olmayı hedeflemekte, tüm öneri ve görüşlerini müvekkilleriyle birebir paylaşarak aktif bir işbirliği içerisinde olmaktadır. </p>
+							<p>Fikri ve sınai mülkiyet bilincinin bireysel ve kurumsal gelişim dışında, ülkemizin de gelişmesinde en büyük araç olduğunun farkındalığıyla LİBRA PATENT; bu bilincin geliştirilmesi için de her türlü çabayı göstermektedir. Tüm müvekkillerine ve talep eden tüm kişi ve kurumlara sağladığı ücretsiz fikri ve sınai haklar eğitimleri ile ulusal bazda da sosyal sorumluluğunu tamamlamaktadır. </p>
+							<p>Firmamızla ilgili daha detaylı bilgi almak, eğitim taleplerinde bulunmak ve fikri ve sınai mülkiyet haklarınızla ilgili tüm işlemleriniz için lütfen bizimle temas kurunuz. </p>
+							<p><a href="iletisim.php">İletişim için...</a></p>
         				</div>
         			</div>
         		</div>
