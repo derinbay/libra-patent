@@ -8,7 +8,7 @@ include 'header.php';
 			<div class="banner_content text-center">
 				<div class="page_link">
 					<a href="index.html">Ana Sayfa</a>
-					<a href="portfolio.html">Marka</a>
+					<a href="marka.html">Marka</a>
 				</div>
 				<h2>Marka Tescili ve İtiraz İşlemleri</h2>
 			</div>
@@ -59,7 +59,7 @@ include 'header.php';
 				<p>Libra Patent, Türk Patent ve Marka Kurumu tarafından 1 ay içerisinde 2 adet Resmi Marka Bülteni yayınlandığı ve itiraz süreci sadece 2 ay ile sınırlandırıldığı bilinci ile benzer marka takiplerini mümkün olduğunca hızlı bir şekilde gerçekleştirerek, müvekkillerine itirazlar konusunda karar vermeyi ve itirazları dosyalamak için maksimum süreyi kazandırmayı hedeflemektedir. Ayrıca müvekkiller adına benzer marka takipleri konusunda tespit edilen markalara olası itirazların başarı şansı konusunda danışmanlık hizmetleri de bilabedel olarak verilerek müvekkillere maksimum destek sağlanmaktadır. </p>
 				<p>Benzer marka takipleri konusunda daha detaylı bilgi ve talimatlarınız için <a href="mailto:info@librapatent.com.tr">lütfen bizimle irtibat kurunuz...</a></p>
 				<h3 class="text-heading title_color">MARKA İTİRAZLARI</h3>
-				<h3 class="text-heading title_color">Türk Patent ve Marka Kurumu nezdinde Marka İtirazları; </h3>
+				<p>Türk Patent ve Marka Kurumu nezdinde Marka İtirazları;</p>
 				<ul>
 					<li>İlan edilen markalara itiraz ve</li>
 					<li>Türk Patent ve Marka Kurumu tarafından verilen kararlara itiraz olmak üzere 2 ayrı başlıkta değerlendirilmektedir. </li>

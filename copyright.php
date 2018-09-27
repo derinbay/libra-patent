@@ -27,8 +27,8 @@ include 'header.php';
                 <p>Copyright yani telif hakkı kişinin her türlü fikri emeği ile meydana getirdiği eserler üzerinde 5846 sayılı Fikir ve Sanat Eserleri Kanunu çerçevesinde korunan haklardır. </p>
                 <p>Copyright / telif hakları;</p>
                 <ul>
-                    <li>EEserin üretilmesiyle birlikte doğar ve koruma başlar ancak hakları kanıtlamak ve ispat kolaylığı ve 3. Kişiler üzerinde daha net koruma sağlaması için tescil olmalıdır.</li>
-                    <li>SSoyut niteliğe sahiptir. Telif hakları ile korunan insan düşüncesi, fikir vb gibi haklar maddi olmayan haklardır. Telif hakları somutlaştığı maddeden ayrı ve bağımsız bir varlık ve hukuki değere sahiptir.</li>
+                    <li>Eserin üretilmesiyle birlikte doğar ve koruma başlar ancak hakları kanıtlamak ve ispat kolaylığı ve 3. Kişiler üzerinde daha net koruma sağlaması için tescil olmalıdır.</li>
+                    <li>Soyut niteliğe sahiptir. Telif hakları ile korunan insan düşüncesi, fikir vb gibi haklar maddi olmayan haklardır. Telif hakları somutlaştığı maddeden ayrı ve bağımsız bir varlık ve hukuki değere sahiptir.</li>
                     <li>Ülkeseldir ve hangi ülkede koruma talep ediliyorsa o ülke mevzuatı çerçevesinde koruma sağlanması gerekmektedir.</li>
                     <li>Mutlak hak niteliğine sahiptir.</li>
                     <li>Belirli bir süre boyunca korunurlar.</li>
