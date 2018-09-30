@@ -71,7 +71,7 @@ body {
   font-size: 14px;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: #777777;
+  color: #190707;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2338,7 +2338,7 @@ button:focus {
 }
 
 b, sup, sub, u, del {
-  color: #f8b600;
+  color: #B40404;
 }
 
 h1 {
@@ -3676,7 +3676,7 @@ h6 {
   font-size: 24px;
   line-height: 36px;
   font-family: "Roboto", sans-serif;
-  color: #777777;
+  color:#190707;
   font-weight: normal;
   margin-bottom: 0px;
 }
@@ -3701,7 +3701,7 @@ h6 {
 
 .offer_item .offer_text p {
   margin-bottom: 0px;
-  color: #777777;
+  color:#190707;
 }
 
 .offer_item:hover .offer_text {
@@ -3947,7 +3947,7 @@ h6 {
 }
 
 .about_right_text h4 {
-  color: #222222;
+  color: #190707;
   font-size: 36px;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
@@ -3958,7 +3958,7 @@ h6 {
   font-size: 14px;
   font-family: "Poppins", sans-serif;
   line-height: 24px;
-  color: #777777;
+  color: #190707;
   margin-bottom: 18px;
 }
 
@@ -4138,7 +4138,7 @@ h6 {
 /*----------------------------------------------------*/
 /*============== footer-area css ===============*/
 .footer-area {
-  background: #222222;
+  background: #585858;
   padding-top: 120px;
 }
 
@@ -4149,7 +4149,7 @@ h6 {
 .single-footer-widget ul li a {
   line-height: 25px;
   display: inline-block;
-  color: #777;
+  color: #000000;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
