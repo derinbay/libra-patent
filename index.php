@@ -2,6 +2,10 @@
 include 'header.php';
 ?>
 
+<div align="right">
+<a href="http://localhost/libra-dil/index.php" 
+_fcksavedurl="http://localhost/libra-dil/index.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/index-en.php" _fcksavedurl="http://localhost/libra-dil/index-en.php"><img border="0" alt="English" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/eng.png" 
+</div>
         <!--================Home Banner Area =================-->
         <section class="home_banner_area t-banner">
             <div class="banner_inner d-flex align-items-center t-banner">

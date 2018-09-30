@@ -17,7 +17,7 @@
                         <div class="col-8">
                             <ul class="list">
                                 <li><a href="index.php">Anasayfa</a></li>
-                                <li><a href="about-us.php">Hakkımızda</a></li>
+                                <li><a href="hakkimizda.php">Hakkımızda</a></li>
                                 <li><a href="hizmetlerimiz.php">Hizmetlerimiz</a></li>
                                 <li><a href="iletisim.php">İletişim</a></li>
                             </ul>
