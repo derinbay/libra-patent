@@ -1,11 +1,6 @@
 <?php
 include 'header.php'
 ?>
-<div align="right">
-<a href="http://localhost/libra-dil/yararli-linkler.php" 
-_fcksavedurl="http://localhost/libra-dil/yararli-linkler.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/usefull-links.php" _fcksavedurl="http://localhost/libra-dil/usefull-links.php"><img border="0" alt="English" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/eng.png" 
-</div>
-</div>
         
         <!--================Home Banner Area =================-->
         <section class="banner_area">
@@ -16,7 +11,7 @@ _fcksavedurl="http://localhost/libra-dil/yararli-linkler.php"><img border="0" al
 							<a href="index.php">Ana Sayfa</a>
 							<a href="yararli-linkler.php">Yararlı linkler...</a>
 						</div>
-						<h2>Haklarınızı koruyabilmek için yardımcı Kurum ve Kuruluşlar...</h2>
+						<h2>Yararlı Linkler...</h2>
 					</div>
 				</div>
             </div>
@@ -25,17 +20,14 @@ _fcksavedurl="http://localhost/libra-dil/yararli-linkler.php"><img border="0" al
         
         <!--================Offer Area =================-->
         <section class="offer_area p_120">
-        	<div class="container">
-        		<div class="offer_title">
-        			<h2>Fikri ve Sınai Haklarınızı korumanız için yararlı linkler...</h2>
-        		</div>
+        	<div class="container">        		
         		<div class="row offer_inner">
         			<div class="col-lg-4">
         				<div class="offer_item">
         					<img class="img-fluid" src="img/offer/offer-1.png" alt="">
         					<div class="offer_text">
         						<h4>WIPO</h4>
-        						<p>Merkezi İsviçre Cenova ‘da bulunan WIPO kurumunu oluşturan Madrid Protokolüne şu anda …. Ülke üye durumunda ve bu ülkelerden tümü ya da talep edilen ülkeler için tek bir başvuru yaparak koruma sağlanması mümkündür.</p> <p><a href="http://www.wipo.int/portal/en/index.html" target="_blank"> WIPO 'nun sitesine ulaşmak için tıklayınız..</a></p>
+        						<p>Merkezi İsviçre Cenova ‘da bulunan WIPO kurumunu oluşturan Madrid Protokolüne şu anda 102 Ülke üye durumunda ve bu ülkelerden tümü ya da talep edilen ülkeler için tek bir başvuru yaparak koruma sağlanması mümkündür.</p> <p><a href="http://www.wipo.int/portal/en/index.html" target="_blank"> WIPO 'nun sitesine ulaşmak için tıklayınız..</a></p>
         					</div>
         				</div>
         			</div>
@@ -90,3 +82,8 @@ _fcksavedurl="http://localhost/libra-dil/yararli-linkler.php"><img border="0" al
 <?php
 include 'footer.php'
 ?>
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "useful-links.php";
+</script>

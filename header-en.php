@@ -1,7 +1,7 @@
 <?php?>
 
 <!doctype html>
-<html lang="tr">
+<html lang="en">
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
@@ -31,7 +31,7 @@
             	<nav class="navbar navbar-expand-lg navbar-light">
 					<div class="container box_1620">
 						<!-- Brand and toggle get grouped for better mobile display -->
-						<a class="navbar-brand logo_h" href="index.php"><img src="img/logo.png" alt="" style="width: 223px; height: 65px;"></a>
+						<a class="navbar-brand logo_h" href="index-en.php"><img src="img/logo.png" alt="" style="width: 223px; height: 65px;"></a>
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
@@ -40,35 +40,35 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 							<ul class="nav navbar-nav menu_nav ml-auto">
-								<li class="nav-item active"><a class="nav-link" href="index.php">Ana Sayfa</a></li>
+                                <li class="nav-item active"><a class="nav-link" href="index-en.php">Home</a></li>
                                 <li class="nav-item submenu dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Kurumsal</a>
+                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Corporate</a>
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a class="nav-link" href="hakkimizda.php">Hakkımızda</a>
-                                        <li class="nav-item"><a class="nav-link" href="kalite-politikamiz.php">Kalite Politikamız</a>
+                                        <li class="nav-item"><a class="nav-link" href="about-us.php">About Us</a>
+                                        <li class="nav-item"><a class="nav-link" href="quality-policy.php">Quality Policy</a>
                                     </ul>
                                 </li>
 								<li class="nav-item submenu dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hizmetlerimiz</a>
+                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a class="nav-link" href="marka.php">Marka</a>
-                                        <li class="nav-item"><a class="nav-link" href="patent.php">Patent</a>
-                                        <li class="nav-item"><a class="nav-link" href="tasarim.php">Tasarım</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="copyright.php">Copyrıght</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="alan-adlari.php">Alan Adları</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="cografi-isaret.php">Coğrafi İşaret</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="bitki-islahci-haklari.php">Bitki İslahçı Hakları</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="entegre-devre-topografyalari.php">Entegre Devre Topografyaları</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="hukuki-danismanlik.php">Hukuki Danışmanlık</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="Trademarks.php">Trademarks</a>
+                                        <li class="nav-item"><a class="nav-link" href="patent-utility-model.php">Patent and Utility Model</a>
+                                        <li class="nav-item"><a class="nav-link" href="designs.php">Designs</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="copyrights-en.php">Copyrights</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="domain-names.php">Domain Names</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="geographical-signs.php">Geographical Signs</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="plant-breeders-rights.php">Plant Breeders Rights</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="integrated-circuit-topographies.php">Integrated Circuit Topographies</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="legal-consultancy.php">Legal Consultancy</a></li>
                                     </ul>
                                 </li> 
-                                <li class="nav-item"><a class="nav-link" href="yararli-linkler.php">Yararlı linkler</a>                       
-                                <li class="nav-item"><a class="nav-link" href="iletisim.php">İletişim</a></li>
+                                <li class="nav-item"><a class="nav-link" href="useful-links.php">Useful Links</a>                       
+                                <li class="nav-item"><a class="nav-link" href="Contact.php">Contact</a></li>
 							</ul>
-							<ul class="nav navbar-nav navbar-right">    
-								<li class="nav-item search">
-                                    <a href><span class="lang-sm" lang="tr"></span></a>
-                                    <a id="english"><span class="lang-sm" lang="en"></a>
+							<ul class="nav navbar-nav navbar-right">
+                                <li class="nav-item search">
+                                    <a id="turkish"><span class="lang-sm" lang="tr"></span></a>
+                                    <a href><span class="lang-sm" lang="en"></a>
                                 </li>
 							</ul>
 						</div> 

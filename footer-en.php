@@ -6,20 +6,20 @@
         <div class="row">
             <div class="col-lg-3  col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h6 class="footer_title">Libra Patent Hakkında</h6>
-                    <p>Sektörde 17 yıllık deneyimimizle sizlerin çözüm ortağı olmaktan mutluluk duyarız.</p>
+                    <h6 class="footer_title">About Libra Patent</h6>
+                    <p>We will be very pleased to be your solution partner with our 17 years experience</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h6 class="footer_title">Site Linkleri</h6>
+                    <h6 class="footer_title">Website links</h6>
                     <div class="row">
                         <div class="col-8">
                             <ul class="list">
-                                <li><a href="index.php">Anasayfa</a></li>
-                                <li><a href="hakkimizda.php">Hakkımızda</a></li>
-                                <li><a href="Yararli-linkler.php">Yararlı Linkler</a></li>
-                                <li><a href="iletisim.php">İletişim</a></li>
+                                <li><a href="index-en.php">Home</a></li>
+                                <li><a href="about-us.php">About Us</a></li>
+                                <li><a href="useful-links.php">Useful Links</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>									
                     </div>							
@@ -27,8 +27,8 @@
             </div>							
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h6 class="footer_title">Bülten</h6>
-                    <p>Sizlere daha iyi hizmet verebilmemiz için bültenlerimize üye olmak ister misiniz?</p>		
+                    <h6 class="footer_title">Bulletin</h6>
+                    <p>Do you want to subscribe to our bulletins?</p>		
                     <div id="mc_embed_signup">
                         <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
                             <div class="input-group d-flex flex-row">
@@ -42,18 +42,17 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget instafeed">
-                    <h6 class="footer_title">Bize Ulaşın...</h6>
+                    <h6 class="footer_title">Contact Us...</h6>
                     <p>Acıbadem MaH. Çeçen Sk.</p>
                     <p>Akasya Evleri A (Kule) Blok</p>
-                    <p> NO:25 D:150 - Üsküdar/İSTANBUL-Türkiye</p>
-                    <p>0216 602 11 50 - <a href="mailto:info@librapatent.com.tr">info@librapatent.com</a></p>
+                    <p> NO:25 D:150 - Uskudar/ISTANBUL-Turkey</p>
+                    <p>00 90 216 602 11 50 - <a href="mailto:info@librapatent.com.tr">info@librapatent.com</a></p>
                 </div>
             </div>						
         </div>
         <div class="border_line"></div>
         <div class="row footer-bottom d-flex justify-content-between align-items-center">
             <p class="col-lg-8 col-md-8 footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-
             <div class="col-lg-4 col-md-4 footer-social">
                 <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-twitter"></i></a>

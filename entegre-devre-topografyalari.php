@@ -59,6 +59,12 @@ _fcksavedurl="http://localhost/libra-dil/entegre-devre-topografyalari.php"><img 
         </div>
     </div>
 </section>
+
 <?php
 include 'footer.php';
 ?>
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "integrated-circuit-topogrophies.php";
+</script>

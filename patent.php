@@ -1,19 +1,15 @@
 <?php
 include 'header.php';
 ?>
-<div align="right">
-<a href="http://localhost/libra-dil/patent.php" 
-_fcksavedurl="http://localhost/libra-dil/patent.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/patent-utility-model.php" _fcksavedurl="http://localhost/libra-dil/patent-utility-model.php"><img border="0" alt="English" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/eng.png" 
-</div>
-</div>
+
 <!--================Home Banner Area =================-->
 <section class="banner_area">
 	<div class="banner_inner d-flex align-items-center">
 		<div class="container">
 			<div class="banner_content text-center">
 				<div class="page_link">
-					<a href="index.html">Ana Sayfa</a>
-					<a href="patent.html">Patent</a>
+					<a href="index.php">Ana Sayfa</a>
+					<a href="patent.php">Patent</a>
 				</div>
 				<h2>Patent ve Faydalı Model İşlemleri</h2>
 			</div>
@@ -89,7 +85,7 @@ _fcksavedurl="http://localhost/libra-dil/patent.php"><img border="0" alt="Türk�
                     <li>Başvurunun yayınlanması ve 3. Kişiler tarafından başvuruya ilişkin görüşlerin bildirilmesi</li>
                     <li>Buluşun tescil için uygun olması durumunda tescil kararı verilmesi veya uygunsuzlukların giderilmesi için en fazla 3 kez olabilecek değişikliklerin yapılması</li>
                 </ul> 
-                <h3 class="text-heading title_color">Patentin Sağladığı Haklar Nelerdir?</h3>
+                <h3 class="text-heading title_color">PATENTİN SAĞLADIĞI HAKLAR NELERDİR?</h3>
                 <p>Patent sahibinin izinsiz olarak yapılması halinde aşağıda belirtilen fillerin önlenmesini talep etme hakkı vardır;</p>
                 <ul>
                     <li>Patent konusu ürünün üretilmesi, satılması, kullanılması veya ithal edilmesi veya bu amaçlar için kişisel ihtiyaçtan başka herhangi bir nedenle elde bulundurulması, </li>
@@ -117,10 +113,10 @@ _fcksavedurl="http://localhost/libra-dil/patent.php"><img border="0" alt="Türk�
                     <li>veraset ve intikal işlemleri için yardımcı olmaktan memnuniyet duyarız.</li>
                 </ul>   
                 <p>Bunun dışında Türk Patent ve Marka Kurumu ‘ndan tescil belgesi sureti, sicil sureti, menşe memleket belgesi talepleriniz de en kısa sürede sonuçlandırılabilmektedir.</p>
-                <p>Daha detaylı bilgi ve talimatlarınız için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a></p>     <h3 class="text-heading title_color">YILLIK ÜCRET ÖDEMELERİ</h3>
+                <p>Daha detaylı bilgi ve talimatlarınız için Libra Patent ile temas kurabilirsiniz...</a></p>     <h3 class="text-heading title_color">YILLIK ÜCRET ÖDEMELERİ</h3>
                 <p>Patent ve Faydalı Model haklarının devamı için her yıl Türk Patent ve Marka Kurumu tarafından belirlenecek yıllık ücret ödemelerinin düzenli olarak yapılması gerekmektedir.</P>
                 <p>Normal süresi içerisinde ödemeyen yıllık ücretlerinin ilave 6 aylık süre içerisinde cezalı olarak ödenmesi de mümkündür.</p>
-                <p>Libra Patent olarak tam yıllık ücret ödeme talepleriniz doğrultusunda yapılacak işlemleriniz çok hızlı bir şekilde tamamlanmaktadır. Daha detaylı bilgi için <a href="mailto:info@librapatent.com.tr">lütfen bizimle temas kurunuz...</a></p>              <h3 class="text-heading title_color">YURTDIŞI PATENT / FAYDALI MODEL BAŞVURULARI</h3>
+                <p>Libra Patent olarak tam yıllık ücret ödeme talepleriniz doğrultusunda yapılacak işlemleriniz çok hızlı bir şekilde tamamlanmaktadır. Daha detaylı bilgi için lütfen bizimle temas kurunuz...</a></p>              <h3 class="text-heading title_color">YURTDIŞI PATENT / FAYDALI MODEL BAŞVURULARI</h3>
                 <p>Patentler ve faydalı modeller tescilin tamamlandığı ülkelerde koruma sağlamaktadırlar. Bu nedenle patentin / faydalı modelin kullanıldığı ya da kullanılmasının düşünüldüğü tüm ülkelerde tescil işlemlerinin tamamlanması gerekmektedir.</p>
                 <p>Bu işlemleri kolaylaştırmak için çeşitli ülkeler tarafından oluşturulan birlikler mevcuttur. Bu birlikler kapsamında toplu başvurular yapılabildiği gibi birlik üyesi olmayan ülkeler için de ayrı ayrı ülkesel başvuru imkanı bulunmaktadır.</p>
                 <p>Buna göre yurt dışında patent / faydalı model koruması,</p>
@@ -135,12 +131,18 @@ _fcksavedurl="http://localhost/libra-dil/patent.php"><img border="0" alt="Türk�
                 </ul>     
                 <p>Bu doğrultuda patent ve faydalı modellerin yurt dışı korumasının sağlanabilmesi aracılığıyla hangi yolun tercih edilmesi gerektiğinin seçimi çok önemlidir. </p>
                 <p>Buluşun niteliğine göre seçilecek en uygun yol ile patent / faydalı modelin en kapsamlı ve en ekonomik olarak korunması hedeflenmektedir.</p>
-                <p>Libra Patent 17 yıllık deneyimi ile yanınızdadır. Her türlü soru ve talepleriniz için <a href="mailto:info@librapatent.com.tr">lütfen bizimle temas kurunuz...</a></p>           
+                <p>Libra Patent 17 yıllık deneyimi ile yanınızdadır. Her türlü soru ve talepleriniz için lütfen bizimle temas kurunuz...</a></p>           
 			</div>
 		</div>
 	</div>
 </section>
 <!--================End Home Gallery Area =================-->
+
 <?php
 include 'footer.php';
 ?>
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "patent-utility-model.php";
+</script>

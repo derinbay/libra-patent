@@ -1,20 +1,15 @@
 <?php
 include 'header.php';
 ?>
-<div align="right">
-<a href="http://localhost/libra-dil/iletisim.php" 
-_fcksavedurl="http://localhost/libra-dil/iletisim.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/contact.php" _fcksavedurl="http://localhost/libra-dil/contact.php"><img border="0" alt="English" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/eng.png" 
-</div>
-</div>
-        
+  
         <!--================Home Banner Area =================-->
         <section class="banner_area">
             <div class="banner_inner d-flex align-items-center">
 				<div class="container">
 					<div class="banner_content text-center">
 						<div class="page_link">
-							<a href="index.php">Home</a>
-							<a href="iletisim.php">Contact</a>
+							<a href="index.php">Ana Sayfa</a>
+							<a href="iletisim.php">İletişim</a>
 						</div>
 						<h2>İletişim için..</h2>
 					</div>
@@ -44,7 +39,7 @@ _fcksavedurl="http://localhost/libra-dil/iletisim.php"><img border="0" alt="Tür
                             </div>
                             <div class="info_item">
                                 <i class="lnr lnr-envelope"></i>
-                                <h6><a mailto="info@librapatent.com">info@librapatent.com</a></h6>
+                                <h6><a href="mailto:info@librapatent.com.tr">info@librapatent.com</a></h6>
                                 <p>Sorularınız için...</p>
                             </div>
                         </div>
@@ -112,4 +107,8 @@ include 'footer.php'
             </div>
         </div>
         <!--================End Contact Success and Error message Area =================-->
-        
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "contact.php";
+</script>

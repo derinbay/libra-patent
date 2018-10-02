@@ -1,12 +1,6 @@
 <?php
 include 'header.php';
 ?>
-
-<div align="right">
-<a href="http://localhost/libra-dil/hakkimizda.php" 
-_fcksavedurl="http://localhost/libra-dil/hakkimizda.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/about-us.php" _fcksavedurl="http://localhost/libra-dil/about-us.php"><img border="0" alt="English" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/eng.png" 
-</div>
-</div>
         
         <!--================Home Banner Area =================-->
         <section class="banner_area">
@@ -14,7 +8,8 @@ _fcksavedurl="http://localhost/libra-dil/hakkimizda.php"><img border="0" alt="T�
 				<div class="container">
 					<div class="banner_content text-center">
 						<div class="page_link">
-							<a href="index.html">Anasayfa</a>
+							<a href="index.php">Anasayfa</a>
+							<a href="hakkimizda.php">Hakkımızda</a>
 						</div>
 						<h2>Hakkımızda</h2>
 					</div>
@@ -51,3 +46,8 @@ _fcksavedurl="http://localhost/libra-dil/hakkimizda.php"><img border="0" alt="T�
 <?php
 include 'footer.php'
 ?>
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "about-us.php";
+</script>

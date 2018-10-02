@@ -1,11 +1,7 @@
 <?php
 include 'header.php';
 ?>
-<div align="right">
-<a href="http://localhost/libra-dil/cografi-isaret.php" 
-_fcksavedurl="http://localhost/libra-dil/cografi-isaret.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/geographical-signs.php" _fcksavedurl="http://localhost/libra-dil/geographical-signs.php"><img border="0" alt="English" width="30" height="30"src="https://img.webme.com/pic/v/vidomix/eng.png" 
-</div>
-</div>
+
 <!--================Home Banner Area =================-->
 <section class="banner_area">
     <div class="banner_inner d-flex align-items-center">
@@ -79,3 +75,8 @@ _fcksavedurl="http://localhost/libra-dil/cografi-isaret.php"><img border="0" alt
 <?php
 include 'footer.php';
 ?>
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "geographical-signs.php";
+</script>

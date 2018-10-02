@@ -1,19 +1,15 @@
 <?php
 include 'header.php';
 ?>
-<div align="right">
-<a href="http://localhost/libra-dil/marka.php" 
-_fcksavedurl="http://localhost/libra-dil/marka.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/trademarks.php" _fcksavedurl="http://localhost/libra-dil/trademarks.php"><img border="0" alt="English" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/eng.png" 
-</div>
-</div>
+
 <!--================Home Banner Area =================-->
 <section class="banner_area">
 	<div class="banner_inner d-flex align-items-center">
 		<div class="container">
 			<div class="banner_content text-center">
 				<div class="page_link">
-					<a href="index.html">Ana Sayfa</a>
-					<a href="marka.html">Marka</a>
+					<a href="index.php">Ana Sayfa</a>
+					<a href="marka.php">Marka</a>
 				</div>
 				<h2>Marka Tescili ve İtiraz İşlemleri</h2>
 			</div>
@@ -31,7 +27,7 @@ _fcksavedurl="http://localhost/libra-dil/marka.php"><img border="0" alt="Türkç
 				<h4 class="text-heading title_color">MARKA ARAŞTIRMA</h4>
 				<p>Libra Patent tarafından başvurusu düşünülen markalar için birebir marka araştırması ücretsiz olarak yapılmaktadır. Bu şekilde riskli veya yüksek riskli görülen markalar için olası değişikliklerle, başvuruda karşılaşılabilecek red kararlarının yaratacağı maddi kayıplar ve zaman kaybı engellenebilmektedir. </p>
 				<p>Diğer taraftan, ihtiyaç halinde Türk Patent ve Marka Kurumu nezrinde resmi, birebir ya da benzer marka araştırması da yapılarak marka başvurusu için hızlı ve ret riski değerlendirmesi mümkün olabilmektedir.</p>
-				<p>Tüm araştırma talepleriniz için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a> </p>				
+				<p>Tüm araştırma talepleriniz için Libra Patent ile temas kurabilirsiniz...</a> </p>				
 				<h3 class="text-heading title_color">MARKA TESCİLİ</h3>
 				<p>Marka bir işletmenin mal veya hizmetlerini diğer işletmelerin mal veya hizmetlerinden ayırt etmeye yarayan işaretlerden olup, markaların taklit ve haksız rekabetten korunabilmesi ve ticari değerlere dönüştürebilmesi için mutlaka tescil edilmesi gerekmektedir. </p>
 				<p>Libra Patent, 17 yılı aşkın deneyimiyle marka araştırma aşamasında tescil işlemlerinin tamamlanması sürecine kadar, müvekkillerine butik ve en hızlı şekilde hizmet vererek çözüm ortaklığı sunmaktadır. </p>
@@ -57,12 +53,12 @@ _fcksavedurl="http://localhost/libra-dil/marka.php"><img border="0" alt="Türkç
                     <li>Marka sahibi kişi ya da kuruluşunun unvan ve adres bilgileri kontrol edilerek eğer varsa gerekli değişiklikler yapılabilmektedir.</li>
 					<li>Akabinde marka yenileme işlemi güncel bilgileriniz ile tamamlanarak yenileme belgeniz tarafınıza ulaştırılmaktadır.</li>
 				</ul>				
-				<p>Tüm yenileme talepleriniz ve daha detaylı bir bilgi için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a> </p>	
+				<p>Tüm yenileme talepleriniz ve daha detaylı bir bilgi için Libra Patent ile temas kurabilirsiniz...</a> </p>	
 				<h3 class="text-heading title_color">MARKA TAKİP</h3>
 				<p>Türk Patent ve Marka Kurumu tarafından yapılan inceleme sonrasında kabul edilen marka başvuruları Resmi Marka Bülteni ‘nde 2 ay süreyle ilan edilmekte ve ilan süresi içerisinde, diğer kişi ve kuruluşların ilgili markalara itiraz edebilme hakları bulunmaktadır. </p>
 				<p>Günümüzde Türk Patent ve Marka Kurumu tarafından marka başvurularının genel konseptte incelendiği ve birebir aynı markalar bulunmadığı sürece marka başvurularının kabul edilerek yayınlandığı görülmektedir. Bu nedenle markalarınıza çok yakın ve benzer olan markaların tescil edilmemesi için, benzer markaların takip edilmesi ve yayınlanan benzer markaların ilanlarına 2 aylık itiraz süresi içerisinde itiraz edilmesi gerekmektedir.</p>
 				<p>Libra Patent, Türk Patent ve Marka Kurumu tarafından 1 ay içerisinde 2 adet Resmi Marka Bülteni yayınlandığı ve itiraz süreci sadece 2 ay ile sınırlandırıldığı bilinci ile benzer marka takiplerini mümkün olduğunca hızlı bir şekilde gerçekleştirerek, müvekkillerine itirazlar konusunda karar vermeyi ve itirazları dosyalamak için maksimum süreyi kazandırmayı hedeflemektedir. Ayrıca müvekkiller adına benzer marka takipleri konusunda tespit edilen markalara olası itirazların başarı şansı konusunda danışmanlık hizmetleri de bilabedel olarak verilerek müvekkillere maksimum destek sağlanmaktadır. </p>
-				<p>Benzer marka takipleri konusunda daha detaylı bilgi ve talimatlarınız için <a href="mailto:info@librapatent.com.tr">lütfen bizimle irtibat kurunuz...</a></p>
+				<p>Benzer marka takipleri konusunda daha detaylı bilgi ve talimatlarınız için lütfen bizimle irtibat kurunuz...</a></p>
 				<h3 class="text-heading title_color">MARKA İTİRAZLARI</h3>
 				<p>Türk Patent ve Marka Kurumu nezdinde Marka İtirazları;</p>
 				<ul>
@@ -73,13 +69,13 @@ _fcksavedurl="http://localhost/libra-dil/marka.php"><img border="0" alt="Türkç
 				<p>Türk Patent ve Marka Kurumu tarafından yapılan inceleme sonrasında kabul edilen marka başvuruları Resmi Marka Bülteni ‘nde 2 ay süreyle ilan edilmekte ve ilan süresi içerisinde, diğer kişi ve kuruluşların ilgili markalara itiraz edebilme hakları bulunmaktadır.</p>
 				<p>Günümüzde Türk Patent ve Marka Kurumu tarafından marka başvurularının genel konseptte incelendiği ve birebir aynı markalar bulunmadığı sürece marka başvurularının kabul edilerek yayınlandığı görülmektedir. Bu nedenle markalarınıza çok yakın ve benzer olan markaların tescil edilmemesi için, benzer markaların takip edilmesi ve yayınlanan benzer markaların ilanlarına 2 aylık itiraz süresi içerisinde itiraz edilmesi gerekmektedir. </p>
 				<p>Aksi takdirde ilgili markalar tescil edilecek ve bu markaların iptali ancak çok uzun ve maliyetli bir süreç olan dava süreci ile sağlanabilecektir.  Daha da önemli bu süre zarfında markanıza çok yakın markalar aynı ürün ve hizmet grubu için başvuru sahipleri tarafından kullanılabilecektir. </p>
-				<p>Buna göre Libra Patent tarafından 17 yılı aşkın deneyimimizle benzer marka takipleri düzenli olarak yapılabilmekte ve gerekli itirazlar süresi içerisinde dosyalanabilmektedir. Benzer marka takip ve itirazlara ilgili daha detaylı bilgi almak için ya da itiraz talimatlarınız için <a href="mailto:info@librapatent.com.tr">Libra Patent ‘e ulaşabilirsiniz...</a></p>				
+				<p>Buna göre Libra Patent tarafından 17 yılı aşkın deneyimimizle benzer marka takipleri düzenli olarak yapılabilmekte ve gerekli itirazlar süresi içerisinde dosyalanabilmektedir. Benzer marka takip ve itirazlara ilgili daha detaylı bilgi almak için ya da itiraz talimatlarınız için Libra Patent ‘e ulaşabilirsiniz...</a></p>				
 				<h3 class="text-heading title_color">Türk Patent ve Marka Kurumu Kararlarına İtiraz:</h3>
 				<p>Türk Patent ve Marka Kurumu tarafından verilen başvuruların reddi / kısmi reddi kararlarına ya da ilana itirazların reddi / kısmen reddi kararlarına 2 aylık yasal süresi içerisinde itiraz edilebilmektedir.</p>
 				<p>Red/Kısmi red kararlarına yapılan itirazlar Yeniden İnceleme ve Değerlendirme Kurulu tarafından incelenmekte olup bu kurum tarafından verilen kararlar nihai kararlar olmaktadır. Kurul tarafından verilen kararlara karşı herhangi bir itiraz yapılamamakta ancak mahkeme nezrinde dava açılabilmektedir.</p>
 				<p>Buna göre yeni yürürlüğe giren 6769 sayılı Sınai Mülkiyet Kanunu çerçevesinde red kararı nedenlerinin dikkatli bir şekilde analiz edilmesi ve kararlara itiraz edilmesi fevkalade önemlidir.</p>
 				<p>Örneğin yeni SMK ile daha önce uygulamada olmayan muvafakatname gibi uygulamalar yürürlüğe girmiş olup, hak kaybı yaşanmaması için tüm yasal haklarınız halihazırdaki kanun ve uygulamalar çerçevesinde değerlendirilmesi ve itiraz sürecinin başlatılması gerekmektedir.</p>
-				<p>Türk Patent ve Marka Kurumu kararlarına itiraz süreçleri için ilgili hukuki değerlendirme ve talimatlarınız için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a></p>
+				<p>Türk Patent ve Marka Kurumu kararlarına itiraz süreçleri için ilgili hukuki değerlendirme ve talimatlarınız için Libra Patent ile temas kurabilirsiniz...</a></p>
 				<h3 class="text-heading title_color">İtiraza Cevaplar</h3>
 				<p>Başvurular kabul edildiği takdirde 2 ay süreyle Resmi Marka Bülteni nde yayınlanmaktadır ve bu süre zarfında 3. Kişiler başvuruya itiraz edebilmektedir. Başvuru sahibi ise yayına itirazın bildirildiği tarihten itibaren 1 ay içerisinde cevap sunabilmektedir.</p>
 				<p>6769 Sayılı Fikri ve Sınai Mülkiyet Kanunu ile getirilen yeniliklerden biri de itiraz sahibinden uygun şartlarda kullanım kanıtı talep edilebilmesidir. Bu çerçevede 3. Kişi itirazlarının dikkatli bir şekilde dizayn edilmesi, tüm hakların kullanılarak kullanım kanıtı ve cevap çok önemlidir. Libra Patent bu alandaki uzun yıllardır göstermiş olduğu faaliyet ile edinmiş olduğu tecrübe ile başvurunuzun 3. Kişi itirazlarına karşı korunması için de yanınızdadır. Danışmanlık ve bilgi için Libra Patent ile temas kurmanız yeterlidir.</p>
@@ -94,12 +90,12 @@ _fcksavedurl="http://localhost/libra-dil/marka.php"><img border="0" alt="Türkç
 					<li>Veraset ve intikal işlemleri için yardımcı olmaktan memnuniyet duyarız.</li>
 				</ul>
 				<p>Bunun dışında Türk Patent ve Marka Kurumu ‘ndan tescil belgesi sureti, sicil sureti, menşe memleket belgesi talepleriniz de en kısa sürede sonuçlandırılabilmektedir.</p>
-				<p>Daha detaylı bilgi ve talimatlarınız için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a></p>
+				<p>Daha detaylı bilgi ve talimatlarınız için Libra Patent ile temas kurabilirsiniz...</a></p>
 				<h3 class="text-heading title_color">HUKUKİ HAK VE İŞLEMLER</h3>
 				<p>Markaların tescili hukuki koruma için çok önemli bir adımdır ancak tek başına yeterli olamamaktadır. Marka korumasının eksiksiz bir şekilde sağlanabilmesi için 6769 sayılı Sınai Mülkiyet Kanununu çerçevesinde yasal hakların ve marka haklarının, bu hakları ihlal eden kişi ya da kuruluşlara karşı da kullanılması gerekmektedir.</p>
 				<p>Aksi takdirde sessiz kalma yoluyla hak kaybı gibi hukuki risklerle karşılaşılmakta, markanın karşılaştığı tescil ve haksız rekabet sessiz kalım nedeniyle markanın korunması ve ticari değeri zarar görebilmektedir.</p>
 				<p>Bu nedenle marka haklarının tescil ve haksız rekabet durumunda hukuki durum değerlendirilmesi yapılması, ihtarname, gümrük kayıt, noter ve mahkeme yoluyla tespit ve mahkeme ve diğer hukuki merciler nezdinde yasal işlemlerin başlatılması gerekmektedir.</p>
-				<p>Daha detaylı bilgi ve hukuki değerlendirme için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a></p>
+				<p>Daha detaylı bilgi ve hukuki değerlendirme için Libra Patent ile temas kurabilirsiniz...</a></p>
 				<h3 class="text-heading title_color">TANINMIŞ MARKALAR</h3>
 				<p>Tanınmış markalar Paris Sözleşmesi ile uygulanmaya başlayan ve 6769 sayılı Sınai Mülkiyet Kanunu çerçevesinde de korunması düzenlenen “özel korunan markalar” için kullanılan bir kavramdır.</p>
 				<p>Bazı markaların tüketiciler nezdinde algılanması, bıraktığı izlenim, çağrıştırdığı kalite ve koruma unsurları diğer markalara göre çok daha ön plandadır.</p>
@@ -131,14 +127,14 @@ _fcksavedurl="http://localhost/libra-dil/marka.php"><img border="0" alt="Türkç
 				<p>Yurtdışı marka tesciline çeşitli anlaşmalarla oluşturulan grup başvuruları şeklinde talep yapılabildiği gibi toplu başvuru sisteminde yer almayan ülkelerde de tek başına başvurular yapılabilmektedir.</p>
 				<p>Buna göre yurtdışı marka başvuruları;</p>
 				<ul>
-					<li>Dünya Fikri Mülkiyet teşkilatı WIPO aracılığı ile üye 95 ülke arasından seçim yapılarak toplu şekilde</li>
+					<li>Dünya Fikri Mülkiyet teşkilatı WIPO aracılığı ile üye 102 ülke arasından seçim yapılarak toplu şekilde</li>
 					<li>Avrupa Birliği Fikri Mülkiyet Ofisi EUIPO aracılığıyla Avrupa Birliğine üye 28 ülke için toplu olarak</li>
 					<li>Afrika Birliği Fikri Mülkiyet Ofisi OAPI UNION Patent ofisi aracılığı ile 15 ülke için toplu olarak</li>
 					<li>Bu sistemde yer almayan ülkeler için tek başına yapılabilmektedir.</li>
 				</ul>
-				<p><h5><strong><u>WIPO ÜYE ÜLKELER: </u></strong></h5>.......</p> 
-				<p><h5><strong><u>AB ÜYE ÜLKELER: </u></strong></h5>.......</p>
-				<p><h5><strong><u>OAPI ÜYE ÜLKELER: </u></strong></h5>.......</p>
+				<p><h5><strong><u><a href="files/wipo-uye-ulkeler-marka.pdf" target="_blank" >Wipo Üye Ülkeler Listesi için tıklayınız...</a></u></strong></h5></p>
+				<p><h5><strong><u><a href="files/ab-uye-ulkeler-marka.pdf" target="_blank" >AB Üye Ülkeler Listesi için tıklayınız...</a></u></strong></h5></p> 
+				<p><h5><strong><u><a href="files/oapi-uye-ulkeler-marka.pdf" target="_blank" >Oapi Üye Ülkeler Listesi için tıklayınız...</a></u></strong></h5></p> 				
 				<p>Libra Patent, yurt dışı marka başvurusu işlemleriyle ilgili olarak hangi yolun tercih edilmesi gerektiği konusunda hukuki değerlendirmeler yapmakta ve öneriler sunmaktadır.</p>
 				<p>Örneğin bazı markalar için ücretlendirme ve hızlı işlemler nedeniyle WIPO sistemi daha avantajlı olabilmekteyken, bazı markalar içinse (özellikle yerel markanın durumunun sıkıntılı olması durumu gibi) ülkesel başvurular önerilebilmektedir.</p>
 				<p>Bu çerçevede yurt dışı başvurularında gerekli değerlendirme ve işlemler için yardımcı olmaktan memnuniyet duyacağımızı belirterek bizimle temas kurmanızı rica ederiz.</p>
@@ -152,7 +148,7 @@ _fcksavedurl="http://localhost/libra-dil/marka.php"><img border="0" alt="Türkç
 					<li>Kosgeb</li>
 					<li>Dış Ticaret Müsteşarlıklarında Devlet teşviki alınabilmektedir.</li>
 				</ul>
-				<p>Detaylı bilgi için <a href="mailto:info@librapatent.com.tr">lütfen temasa geçiniz...</a></p>
+				<p>Detaylı bilgi için lütfen temasa geçiniz...</a></p>
 			</div>
 		</div>
 	</div>
@@ -163,3 +159,8 @@ _fcksavedurl="http://localhost/libra-dil/marka.php"><img border="0" alt="Türkç
 <?php
 include 'footer.php'
 ?>
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "trademarks.php";
+</script>

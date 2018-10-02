@@ -1,11 +1,7 @@
 <?php
 include 'header.php';
 ?>
-<div align="right">
-<a href="http://localhost/libra-dil/copyright.php" 
-_fcksavedurl="http://localhost/libra-dil/copyright.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/copyrights-en.php" _fcksavedurl="http://localhost/libra-dil/copyrights-en.php"><img border="0" alt="English" width="30" height="30"src="https://img.webme.com/pic/v/vidomix/eng.png" 
-</div>
-</div>
+
 <!--================Home Banner Area =================-->
 <section class="banner_area">
     <div class="banner_inner d-flex align-items-center">
@@ -73,7 +69,7 @@ _fcksavedurl="http://localhost/libra-dil/copyright.php"><img border="0" alt="Tü
                 <p>Eser sahipleri ve mirasçıları, mali haklarını karşılıklı veya karşılıksız-, süreli veya süresiz olarak devredebilmektedirler. Mali haklara ilişkin sözleşmenin yazılı olması ve devre konu hakkın ayrı ayır gösterilmesi gerekmektedir.</p>
                 <h3 class="text-heading title_color">COPYRIGHT TESCİLİ</h3>
                 <p>Fikir ve Sanat Eserleri oluşturulduğu anda doğal olarak koruma başlamaktadır. Ancak hakları üzerinde ispat kolaylığı ve yasal hakların rahat kullanımı ve tesisi için tescil çok önemlidir.</P>
-                <P> Kültür Bakanlığı nezrinde tüm tescil süreci ile ilgili olanaklar için Libra Patent sektördeki 17 yıllık deneyimi ile yanınızdadır. Daha detaylı bilgi için <a href="mailto:info@librapatent.com.tr">Libra Patent ile temas kurabilirsiniz...</a> </p>
+                <P> Kültür Bakanlığı nezrinde tüm tescil süreci ile ilgili olanaklar için Libra Patent sektördeki 17 yıllık deneyimi ile yanınızdadır. Daha detaylı bilgi için Libra Patent ile temas kurabilirsiniz...</a> </p>
                 <h3 class="text-heading title_color">YURTDIŞI COPYRIGHT TESCİLİ</h3>
                 <p>Copyright yani telif hakları ülkesel haklar olup, koruma talep edilen ülkelerde ayrı ayrı o ülkenin mevzuatına göre işlem yapılması gerekmektedir.</p>
                 <p>Buna göre; yurt dışı copyright başvuruları ile ilgili daha fazla bilgi almak ve işlem yapmak için <a href="mailto:info@librapatent.com.tr"> bizimle ileşitim kurmanızı rica ederiz...</a></p>
@@ -87,3 +83,8 @@ _fcksavedurl="http://localhost/libra-dil/copyright.php"><img border="0" alt="Tü
 <?php
 include 'footer.php';
 ?>
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "copyright_en.php";
+</script>

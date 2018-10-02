@@ -286,6 +286,7 @@ button:focus {
   display: inline-block;
   color: #222222;
   margin-left: 220px;
+  margin-top: 40px;
 }
 
 .header_area .navbar .search i {
@@ -3686,7 +3687,7 @@ h6 {
 }
 
 .offer_item .offer_text {
-  text-align: center;
+  text-align: left;
   border: 1px solid #eeeeee;
   padding: 50px 30px 50px 30px;
   border-bottom-left-radius: 5px;

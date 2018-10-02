@@ -2,10 +2,6 @@
 include 'header.php';
 ?>
 
-<div align="right">
-<a href="http://localhost/libra-dil/index.php" 
-_fcksavedurl="http://localhost/libra-dil/index.php"><img border="0" alt="Türkçe" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/tr.png" _fcksavedurl="https://img.webme.com/pic/v/vidomix/tr.png" /></a><a href="http://localhost/libra-dil/index-en.php" _fcksavedurl="http://localhost/libra-dil/index-en.php"><img border="0" alt="English" width="30" height="30" src="https://img.webme.com/pic/v/vidomix/eng.png" 
-</div>
         <!--================Home Banner Area =================-->
         <section class="home_banner_area t-banner">
             <div class="banner_inner d-flex align-items-center t-banner">
@@ -26,37 +22,58 @@ _fcksavedurl="http://localhost/libra-dil/index.php"><img border="0" alt="Türkç
         	<div class="container">
 				<div class="offer_title homepage-text">
 					<h3>Biz Kimiz?</h3>
-					<p>LİBRA PATENT, fikri ve sınai haklar alanında 17 yılı aşkın deneyimiyle çözüm ortağı olduğu tüm müvekkillerine, müvekkilin gerçek ihtiyaçlarına ve hedeflerine yönelik butik hizmeti sunmayı amaçlamaktadır.</p>
-				</div>
-        		<div class="offer_title homepage-text">
-        			<h3>Önerilerimiz</h3>
-        			<p>İyi bir tasarımcı olabilirsiniz. Ancak siz “dünyayı kurtaracak” -ve belki de sizi bir anda zengin ya da popüler bir insana dönüştürebilecek- muhteşem fikrinizi bulmaya çalışırken odaklanabileceğiniz, sık tekrarlandığı için bireysel ya da sosyal yaşam kalitenizi azaltan birçok problem tespit edebileceğinizden eminim. Hatta neredeyse her gün böyle saptamalar yaptığınızdan hiç kuşkum yok. Markete uğrayıp sıra beklememek ve yük taşımamak için markete telefonla sipariş verdiğimiz, tasarruf edebileceğimiz 5 dakikanın bile hesabını yaptığımız bir çağda yaşadığımız hepimiz için ortak bir gerçek.</p>
+					<p>Fikri ve sınai hakların olabilecek en etkin şekilde korunabilmesi için öncelikle tescil yol haritasının dikkatli bir şekilde belirlenmesi, tescil sürecinin hızlı ve eksiksiz bir şekilde tamamlanması ve korumanın devamı için tescil sonrası gerekli hukuki süreçlerin düzenli olarak yürütülmesi gerekmektedir. Her bir sınai mülkiyet hakkı kendine özeldir ve kendi şartlarında değerlendirilerek o hakka özel yol haritasının öngörülmesi gerekmektedir.</p>
+					<p>LİBRA PATENT, fikri ve sınai haklar alanında 17 yılı aşkın deneyimiyle çözüm ortağı olduğu tüm müvekkillerine, müvekkilin gerçek ihtiyaçlarına ve hedeflerine yönelik butik hizmeti sunmayı amaçlamaktadır. </p>
+					<p>Müvekkillerinin yenilikçi fikirlerinin tescili ve korunması için zaman zaman karmaşık olabilen yolculuğunda, LİBRA PATENT stratejik çözüm ortağı olarak yol gösterici olmayı hedeflemekte, tüm öneri ve görüşlerini müvekkilleriyle birebir paylaşarak aktif bir işbirliği içerisinde olmaktadır. </p>
+					<p>Fikri ve sınai mülkiyet bilincinin bireysel ve kurumsal gelişim dışında, ülkemizin de gelişmesinde en büyük araç olduğunun farkındalığıyla LİBRA PATENT; bu bilincin geliştirilmesi için de her türlü çabayı göstermektedir. Tüm müvekkillerine ve talep eden tüm kişi ve kurumlara sağladığı ücretsiz fikri ve sınai haklar eğitimleri ile ulusal bazda da sosyal sorumluluğunu tamamlamaktadır. </p>
+					<p>Firmamızla ilgili daha detaylı bilgi almak, eğitim taleplerinde bulunmak ve fikri ve sınai mülkiyet haklarınızla ilgili tüm işlemleriniz için lütfen bizimle temas kurunuz. </p>
+					<p><a href="iletisim.php">İletişim için...</a></p>
         		</div>
         		<div class="row offer_inner">
         			<div class="col-lg-4">
-        				<div class="offer_item">
-        					<img class="img-fluid" src="img/offer/offer-1.png" alt="">
+        				<div class="offer_item">        					
         					<div class="offer_text">
-        						<h4>Neden Marka Başvurusu yapmalıyız?</h4>
-        						<p>It is a good idea to think of your PC as an office. It stores files, programs, pictures. This can be compared to an actual.</p>
+								<h4>Neden Başvuru yapmalıyız?</h4>
+								<ul>
+									<li>Fikri ve sınai mülkiyet hakları kişi ya da kuruşlara özel; ürün ve hizmetlerin rakiplerin ürün ve hizmetlerinden ayırt edilmesini sağlayan ve bu kapsamda da ticari değere dönüşen haklardır.</li>						
+									<li>Ancak, ürün ve hizmet tüketiciler tarafından tanınır ve bilinir hale geldikçe ve ticari değer arttıkça, bu kez de rakipler tarafından taklit edilme riski ortaya çıkmakta ve büyük emek ve çabalar harcanarak tesis edilen bu haklar zarar görmektedir.</li>
+									<li>Bu durumun engellenebilmesi, fikri ve sınai hakların korunabilmesi ve kötü niyetli kişilere karşı hukuki savaşta başarılı olunabilmesi için mutlaka başvuru yapılması gerekmektedir. Başvuru yaparken ürün ve hizmet üzerinde farklı fikri ve sınai mülkiyet haklarının oluşabildiği de unutulmamadır.</li>
+								</ul>
         					</div>
         				</div>
         			</div>
         			<div class="col-lg-4">
         				<div class="offer_item">
-        					<img class="img-fluid" src="img/offer/offer-2.jpg" alt="">
         					<div class="offer_text">
         						<h4>Fikri ve Sınai Haklarımızı nasıl koruruz?</h4>
-        						<p>It is a good idea to think of your PC as an office. It stores files, programs, pictures.</p>
+								<ul>
+									<li>Fikri ve sınai haklarımızın eksiksiz olarak korunabilmesi için ilk adım uygun başvurunun yapılmasıdır.Buna göre;</li>
+									<li>Ürün ya da hizmete verilecek logo ve adlar için <a href="marka.php">Marka Başvurusu</a></li>
+									<li>Teknik buluş söz konusu ise <a href="patent.php">Patent veya Faydalı Model Başvurusu</a></li>	
+									<li>Ürünün görsel tasarımının korunabilmesi için <a href="tasarim.php">Tasarım Başvurusu</a></li>
+									<li>Henüz fikir aşamasındaki projeler, ilim, edebiyat, sanat eserleri ve bilgisayar programları için <a href="copyright.php">Copyright Başvurusu</a></li>
+									<li>Ürün içeriğindeki ayırt edici nitelikteki devrelerle ilgili <a href="entegre-devre-topografyalari.php">Entegre Devre Topografyası Başvurusu</a></li>
+									<li>Markanın kullanılacağı internet sitesi ile ilgili <a href="alan-adlari.php">Alan Adı Başvuruları</a></li>
+									<li>Yöresel değerler için <a href="cografi-isaret.php">Coğrafi İşaret ve Geleneksel Ürün Adı Başvuruları</a></li>
+									<li>Yeni ıslah edilen bitkiler söz konusu ise <a href="bitki-islahci-haklari.php">Islahçı Hakkı Başvurusu</a> yapılarak koruma sağlanması gerekmektedir<li>                        
+								</ul>
         					</div>
         				</div>
         			</div>
         			<div class="col-lg-4">
         				<div class="offer_item">
-        					<img class="img-fluid" src="img/offer/offer-3.jpg" alt="">
         					<div class="offer_text">
         						<h4>Hukuki haklarımız nelerdir?</h4>
-        						<p>It is a good idea to think of your PC as an office. It stores files, programs, pictures. This can be compared to an actual.</p>
+								<p>Fikri ve sınai mülkiyet hakları taklit edildiğinde ve ihlal edildiğinde yasal işlemlerin başlatılarak ihlalin sonlandırılması mümkündür.</p>
+								<p>Haksız rekabet ya da taklitlerin niteliğine göre;</p>
+								<ul>
+									<li>İhtarname gönderilerek ihlalin durdurulmasının talep edilmesi</li>
+									<li>Mahkemelerde davaların açılması</li>
+									<li>Mahkeme ya da polis kanalıyla taklit ürünlerin toplatılması</li>
+									<li>Gümrüklerde gerekli başvuruların yapılarak taklit ürünlerin giriş ve çıkışlarının engellenmesi</li>
+									<li>Taklit ve ihlalin tespiti amacıyla saha araştırması ve incelenmesi hukuki olarak yapılabilen işlemler arasındadır.</li>
+								</ul>
+								<p>LİBRA PATENT tüm başvurularınız ve işlemleriniz için 17 yıllık deneyimiyle çözüm ortağınız olmaktan memnun olacaktır. Daha fazla bilgi için lütfen bizimle temas kurunuz.</p>						
         					</div>
         				</div>
         			</div>
@@ -98,3 +115,8 @@ _fcksavedurl="http://localhost/libra-dil/index.php"><img border="0" alt="Türkç
 <?php
 include 'footer.php'
 ?>
+
+<script type="text/javascript" charset="utf-8">
+	var english_link = document.getElementById('english');
+	english_link.href = "index-en.php";
+</script>
