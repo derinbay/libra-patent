@@ -86,8 +86,8 @@ button:focus {
 }
 
 .p_120 {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 90px;
+  padding-bottom: 90px;
 }
 
 .p0 {
@@ -4268,7 +4268,7 @@ h6 {
 /*---------------------------------------------------- */
 
 .t-banner {
-  min-height: 250px !important;
+  min-height: 150px !important;
 }
 
 .homepage-text p {

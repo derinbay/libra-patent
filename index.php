@@ -9,8 +9,6 @@ include 'header.php';
 				<div class="container">
 					<div class="banner_content text-center">
 						<h3>FİKRİ VE SINAİ HAKLARINIZ İÇİN ÇÖZÜM ORTAĞINIZ...</h3>
-						<a class="org_btn" href="iletisim.php">Sorularınız için</a>
-						<a class="green_btn" href="#">Ücretsiz Marka Araştırması</a>
 					</div>
 				</div>
             </div>

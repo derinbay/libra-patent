@@ -9,8 +9,6 @@ include 'header-en.php';
 				<div class="container">
 					<div class="banner_content text-center">
 						<h3>your solution partner for your intellectual and industrial rights...</h3>
-						<a class="org_btn" href="Contact.php">For your questions</a>
-						<a class="green_btn" href="#">For trademark search</a>
 					</div>
 				</div>
             </div>
