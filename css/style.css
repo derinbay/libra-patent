@@ -444,7 +444,7 @@ button:focus {
 }
 
 .home_banner_area .banner_inner .overlay {
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  background: -webkit-linear-gradient(0deg, #9e0059 0%, #f27fd3 33%, #341771 67%, #8889ff 100%);
   position: absolute;
   left: 0;
   right: 0;
@@ -1865,32 +1865,26 @@ button:focus {
 }
 
 .home_contact_area .left_img {
-  width: calc(50% - 82px);
   float: left;
   overflow: hidden;
 }
 
 .home_contact_area .h_right_form {
-  width: calc(50% + 82px);
   float: right;
   overflow: hidden;
-  padding-left: 95px;
+  padding-left: 75px;
+  padding-right: 75px;
   background-image: -moz-linear-gradient(90deg, #e187f0 0%, #f27fd3 33%, #a276ff 67%, #8889ff 100%);
   background-image: -webkit-linear-gradient(90deg, #e187f0 0%, #f27fd3 33%, #a276ff 67%, #8889ff 100%);
   background-image: -ms-linear-gradient(90deg, #e187f0 0%, #f27fd3 33%, #a276ff 67%, #8889ff 100%);
-  min-height: 680px;
-}
-
-.home_contact_area .h_right_form .h_form_inner {
-  max-width: 545px;
 }
 
 .h_form_inner h4 {
   color: #fff;
   font-size: 36px;
   font-family: "Roboto", sans-serif;
-  padding-bottom: 70px;
-  padding-top: 120px;
+  padding-bottom: 30px;
+  padding-top: 50px;
 }
 
 .home_contact_form .form-group {
@@ -4273,6 +4267,10 @@ h6 {
 
 .homepage-text p {
   font-size: 18px !important;
+}
+
+.left_img > img {
+  height: 483px;
 }
 
 /*# sourceMappingURL=style.css.map */

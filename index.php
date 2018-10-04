@@ -82,29 +82,36 @@ include 'header.php';
         
         <!--================Home Contact Area =================-->
         <section class="home_contact_area">
-			<div class="left_img">
-				<img src="img/sorulariniz-icin.jpg" alt="">
-			</div>
-			<div class="h_right_form">
-				<div class="h_form_inner">
-					<h4>Sorularınız için</h4>
-					<form class="row home_contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
-						<div class="form-group col-md-12">
-							<input type="text" class="form-control" id="name" name="name" placeholder="Ad Soyad">
+			<div class = container-full>
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="left_img">
+							<img src="img/sorulariniz-icin.jpg" alt="">
 						</div>
-						<div class="form-group col-md-6">
-							<input type="text" class="form-control" id="phone" name="phone" placeholder="Telefon">
+					</div>
+					<div class="col-lg-6">
+						<div class="h_right_form">
+							<div class="h_form_inner">
+							<h4>Sorularınız için</h4>
+							<form class="row home_contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+								<div class="form-group col-md-12">
+									<input type="text" class="form-control" id="name" name="name" placeholder="Ad Soyad">
+								</div>
+								<div class="form-group col-md-6">
+									<input type="text" class="form-control" id="phone" name="phone" placeholder="Telefon">
+								</div>
+								<div class="form-group col-md-6">
+									<input type="email" class="form-control" id="email" name="email" placeholder="Email adresi">
+								</div>
+								<div class="form-group col-md-12">
+									<textarea class="form-control" name="message" id="message" rows="1" placeholder="Mesajınız"></textarea>
+								</div>
+								<div class="form-group col-md-12">
+									<button type="submit" value="submit" class="btn submit_btn form-control">Gönder</button>
+								</div>
+							</form>
 						</div>
-						<div class="form-group col-md-6">
-							<input type="email" class="form-control" id="email" name="email" placeholder="Email adresi">
-						</div>
-						<div class="form-group col-md-12">
-							<textarea class="form-control" name="message" id="message" rows="1" placeholder="Mesajınız"></textarea>
-						</div>
-						<div class="form-group col-md-12">
-							<button type="submit" value="submit" class="btn submit_btn form-control">Gönder</button>
-						</div>
-					</form>
+					</div>
 				</div>
 			</div>
         </section>

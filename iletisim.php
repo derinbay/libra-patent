@@ -34,7 +34,7 @@ include 'header.php';
                             </div>
                             <div class="info_item">
                                 <i class="lnr lnr-phone-handset"></i>
-                                <h6><a href="#">(0216) 602 11 50</a></h6>
+                                <h6><a href="#">(0531) 777 26 25</a></h6>
                                 <p>7 gün 24 saat</p>
                             </div>
                             <div class="info_item">

@@ -28,16 +28,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
                     <h6 class="footer_title">Bulletin</h6>
-                    <p>Do you want to subscribe to our bulletins?</p>		
-                    <div id="mc_embed_signup">
-                        <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
-                            <div class="input-group d-flex flex-row">
-                                <input name="EMAIL" placeholder="Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Adresiniz '" required="" type="email">
-                                <button class="btn sub-btn"><span class="lnr lnr-location"></span></button>		
-                            </div>									
-                            <div class="mt-10 info"></div>
-                        </form>
-                    </div>
+                    <p>Do you want to subscribe to our bulletins? Please send us an email</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
@@ -46,7 +37,7 @@
                     <p>Acıbadem MaH. Çeçen Sk.</p>
                     <p>Akasya Evleri A (Kule) Blok</p>
                     <p> NO:25 D:150 - Uskudar/ISTANBUL-Turkey</p>
-                    <p>00 90 533 359 63 68 - <a href="mailto:info@librapatent.com.tr">info@librapatent.com</a></p>
+                    <p>00 90 531 777 26 25 - <a href="mailto:info@librapatent.com.tr">info@librapatent.com</a></p>
                 </div>
             </div>						
         </div>
