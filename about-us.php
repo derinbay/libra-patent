@@ -9,7 +9,8 @@ include 'header-en.php';
 				<div class="container">
 					<div class="banner_content text-center">
 						<div class="page_link">
-							<a href="index-en.html">Home</a>
+							<a href="index-en.php">Home</a>
+							<a href="about-us.php">About Us</a>
 						</div>
 						<h2>About Us</h2>
 					</div>
@@ -24,7 +25,7 @@ include 'header-en.php';
         		<div class="row about_inner">
         			<div class="col-lg-6">
         				<div class="about_img">
-        					<img class="img-fluid" src="img/about-img.jpg" alt="">
+        					<img class="img-fluid" src="img/hakkimizda.png" alt="">
         				</div>
         			</div>
         			<div class="col-lg-6">

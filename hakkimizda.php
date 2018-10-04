@@ -24,7 +24,7 @@ include 'header.php';
         		<div class="row about_inner">
         			<div class="col-lg-6">
         				<div class="about_img">
-        					<img class="img-fluid" src="img/about-img.jpg" alt="">
+        					<img class="img-fluid" src="img/hakkimizda.png" alt="">
         				</div>
         			</div>
         			<div class="col-lg-6">

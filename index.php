@@ -85,7 +85,7 @@ include 'header.php';
         <!--================Home Contact Area =================-->
         <section class="home_contact_area">
 			<div class="left_img">
-				<img src="img/left-img.jpg" alt="">
+				<img src="img/sorulariniz-icin.jpg" alt="">
 			</div>
 			<div class="h_right_form">
 				<div class="h_form_inner">

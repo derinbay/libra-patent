@@ -43,5 +43,5 @@ include 'footer-en.php'
 
 <script type="text/javascript" charset="utf-8">
 	var turkish_link = document.getElementById('turkish');
-	turkish_link.href = "kalite-politikasi.php";
+	turkish_link.href = "kalite-politikamiz.php";
 </script>
