@@ -71,7 +71,7 @@ body {
   font-size: 14px;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: #777777;
+  color: #1d2129;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -551,7 +551,7 @@ button:focus {
 .banner_area {
   position: relative;
   z-index: 1;
-  min-height: 250px;
+  min-height: 200px;
 }
 
 .banner_area .banner_inner {
@@ -3671,7 +3671,7 @@ h6 {
   font-size: 24px;
   line-height: 36px;
   font-family: "Roboto", sans-serif;
-  color:#190707;
+  color:#1d2129;
   font-weight: normal;
   margin-bottom: 0px;
 }
@@ -4271,6 +4271,10 @@ h6 {
 
 .left_img > img {
   height: 483px;
+}
+
+.footer-area p {
+  color: #777;
 }
 
 /*# sourceMappingURL=style.css.map */
