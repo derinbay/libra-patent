@@ -36,8 +36,8 @@
                     <h6 class="footer_title">Bize Ulaşın...</h6>
                     <p>Acıbadem MaH. Çeçen Sk.</p>
                     <p>Akasya Evleri A (Kule) Blok</p>
-                    <p> NO:25 D:150 - Üsküdar/İSTANBUL-Türkiye</p>
-                    <p>0531 777 26 25 - <a href="mailto:info@librapatent.com.tr">info@librapatent.com</a></p>
+                    <p>NO:25 D:150 - Üsküdar/İSTANBUL-Türkiye</p>
+                    <p>0216 602 11 50 - <a href="mailto:info@librapatent.com.tr">info@librapatent.com</a></p>
                 </div>
             </div>						
         </div>
